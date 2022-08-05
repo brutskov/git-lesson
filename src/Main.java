@@ -5,5 +5,6 @@ public class Main {
         Human petia = new Human();
         Human petka = new Human();
         Human vaska = new Human();
+        Human oleg = new Human();
     }
 }
