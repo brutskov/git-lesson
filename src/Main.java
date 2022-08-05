@@ -4,5 +4,6 @@ public class Main {
         Human vasia = new Human();
         Human petia = new Human();
         Human petka = new Human();
+        Human vaska = new Human();
     }
 }
